@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HeroPicture component debe de hacer match con el snapshot 1`] = `<div class="wrapper-img"><img class="hidden-hero" src="1" alt="hero"></div>`;

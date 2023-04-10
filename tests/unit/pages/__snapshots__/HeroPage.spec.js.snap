@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HeroPage Component debe de hacer match con el snapshot 1`] = `
+<h1>Espere por favor...</h1>
+<!--v-if-->
+`;
+
+exports[`HeroPage Component debe de hacer match con el snapshot cuando cargan los pokemons 1`] = `
+<div>
+  <h1>¿Quien es este heroe?</h1>
+  <hero-picture-stub image="https://www.superherodb.com/pictures2/portraits/10/100/10060.jpg" showhero="false"></hero-picture-stub>
+  <hero-options-stub heros="[object Object],[object Object],[object Object],[object Object]"></hero-options-stub>
+</div>
+<!--v-if-->
+`;
